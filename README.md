@@ -7,3 +7,13 @@
 Awesome OpenWrt 旨在提供 *好玩、有趣、方便* 的 OpenWrt 软件包列表，所有软件包均可在对应的 GitHub 链接内或 [OpenWrt 源](https://downloads.openwrt.org/)寻找
 
 **WE LOVE OPEN-SOURCE**
+
+
+## 目录
+
+- [Network 网络类](https://github.com/GenshinMinecraft/awesome-openwrt#Network)
+- [Proxy 代理类](https://github.com/GenshinMinecraft/awesome-openwrt#Proxy)
+- [Service 服务类](https://github.com/GenshinMinecraft/awesome-openwrt#Service)
+- [Monitor 监控类](https://github.com/GenshinMinecraft/awesome-openwrt#Monitor)
+
+## Network
